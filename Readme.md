@@ -2,5 +2,5 @@
 ## cmds might be used:
 + git clone https://github.com/Leviaist/LeetCode_Record.git #clone仓库
 + git add .
-+ git commit -m "updata"
++ git commit -m "update"
 + git push origin main  
